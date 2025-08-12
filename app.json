@@ -1,11 +1,11 @@
 
 
 {
-  "name": "BWM-XMD-QUANTUM",
-  "description": "Best WhatsApp bot developed by Ibrahim Adams",
+  "name": "LORDRAHL-XMD-QUANTUM",
+  "description": "Best WhatsApp bot developed by lord rahl",
   "keywords": ["bot", "node", "baileys", "whatsapp"],
   "logo": "https://files.catbox.moe/2kcb4s.jpeg",
-  "repository": "https://github.com/ekitale/maths-project",
+  "repository": "https://github.com/lordrahl2-sys/LORD-RAHL-XMD",
   "success_url": "/",
   "stack": "heroku-24",
   "env": {
@@ -51,7 +51,7 @@
     },
     "BOT_NAME": {
       "description": "Name for your bot",
-      "value": "BWM-XMD",
+      "value": "LORD RAHL-XMD",
       "required": false
     },
     "BOT_URL": {
@@ -76,7 +76,7 @@
     },
     "OWNER_NUMBER": {
       "description": "Enter your number eg, 2547xxxxxxx",
-      "value": "",
+      "value": "254112399557",
       "required": false 
     },
     "STATUS_REACT_EMOJIS": {
@@ -96,7 +96,7 @@
     },
     "OWNER_NAME": {
       "description": "Owner name",
-      "value": "Ibrahim Adams",
+      "value": "Lord Rahl",
       "required": false
     },
     "SESSION_ID": {
