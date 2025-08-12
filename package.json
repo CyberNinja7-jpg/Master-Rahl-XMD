@@ -1,7 +1,7 @@
 {
-  "name": "Bwmxmd",
+  "name": "Rahlxmd",
   "version": "2.1.0",
-  "description": "Advanced WhatsApp bot using Baileys",
+  "description": "powerthroughknowledge.Controlthroughcode",
   "main": "index.js",
   "type": "commonjs",
   "engines": {
@@ -19,12 +19,12 @@
   "keywords": [
     "bot",
     "Baileys",
-    "bmwxmd",
+    "rahlxmdd",
     "quantum",
     "whatsapp-bot",
-    "Ibrahim-Adams"
+    "lordrahl"
   ],
-  "author": "Ibrahim Adams",
+  "author": "lord rahl",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
