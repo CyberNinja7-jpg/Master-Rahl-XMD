@@ -1,11 +1,10 @@
-
 <!-- Glowing Header -->
 <p align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&color=00FF00&background=000000&center=true&vCenter=true&width=600&lines=⚡+BWM+XMD+QUANTUM+VERSION;🔥+The+Most+Powerful+WhatsApp+Bot;💻+Crafted+by+lord rahl🚀+Next-Gen+Quantum+Technology;🌈+Fast+⚡+Secure+🔒+Reliable+✅" alt="Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&color=00FF00&background=000000&center=true&vCenter=true&width=600&lines=⚡+LORD RAHL+XMD+QUANTUM+VERSION;🔥+The+Most+Powerful+WhatsApp+Bot;💻+Crafted+by+lord rahl🚀+Next-Gen+Quantum+Technology;🌈+Fast+⚡+Secure+🔒+Reliable+✅" alt="Typing Animation">
 </h1>
 
 <!-- Profile Card -->
